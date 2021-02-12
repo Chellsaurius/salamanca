@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-salamanca4-dev-181425-authRole",
+      "UnauthRoleArn": "arn:aws:iam::763396517199:role/amplify-salamanca4-dev-181425-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::763396517199:role/amplify-salamanca4-dev-181425-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-salamanca4-dev-181425-deployment",
+      "UnauthRoleName": "amplify-salamanca4-dev-181425-unauthRole",
+      "StackName": "amplify-salamanca4-dev-181425",
+      "StackId": "arn:aws:cloudformation:us-east-1:763396517199:stack/amplify-salamanca4-dev-181425/1a091480-6bfe-11eb-882b-12d7a78ee1f9",
+      "AmplifyAppId": "d6ak3cq0h2pwc"
+    },
+    "categories": {
+      "auth": {
+        "salamanca4b979194b": {}
+      }
+    }
+  }
+}

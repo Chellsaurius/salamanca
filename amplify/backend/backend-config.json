@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "salamanca4b979194b": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
